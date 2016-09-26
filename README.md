@@ -1,4 +1,4 @@
-# AdvancedWidget3
+# AdvancedWidget2
 ![](https://raw.githubusercontent.com/Ikhsannotes/AdvancedWidget2/master/Screenshot_2016-09-26-11-28-29.jpg)
 ![](https://raw.githubusercontent.com/Ikhsannotes/AdvancedWidget2/master/Screenshot_2016-09-26-11-28-38.jpg)
 ![](https://raw.githubusercontent.com/Ikhsannotes/AdvancedWidget2/master/Screenshot_2016-09-26-11-28-41.jpg)<br><br<br>
